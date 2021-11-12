@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.203125" />
         <entry key="app/src/main/res/layout/activity_shop_item.xml" value="0.17817371937639198" />
+        <entry key="app/src/main/res/layout/fragment_shop_item.xml" value="0.3880208333333333" />
         <entry key="app/src/main/res/layout/item_shop_disabled.xml" value="0.20208333333333334" />
         <entry key="app/src/main/res/layout/item_shop_enabled.xml" value="0.36103896103896105" />
       </map>
