@@ -33,7 +33,6 @@
             android:id="@+id/tv_count"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_weight="1"
             android:textSize="16sp"
             android:textColor="@color/white"
             android:textStyle="bold"
